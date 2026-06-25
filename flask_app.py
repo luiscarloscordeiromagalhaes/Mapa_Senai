@@ -10,7 +10,7 @@ app = Flask(__name__)
 # GOOGLE SHEETS
 # =====================================
 
-SHEET_ID = "1cHfxBwPm0Q3ctoQvcP096S2iuGrF_yNphSDBO-ineQA"
+SHEET_ID = chave
 
 CSV_URL = (
     f"https://docs.google.com/spreadsheets/d/"
